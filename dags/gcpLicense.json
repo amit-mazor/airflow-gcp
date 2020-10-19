@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nodal-clock-292718",
+  "private_key_id": "7a05e6e31fd25f2f8847810ed68f43509217ecb8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDSp+ErBa7Cadz2\nYkUCBXG3DhCURH5tzQFSj2eDzysg576n/+/pnla9LzQ+/PHh3wCTCzQEENdW1cf4\nG/40rrJ6EjQ5RtpTssB4JS/TnX3x8HkUSrJiH0FxNPtzS5sdYyGOd1BH4FTJR1C4\nGrRYvrmfqO6mIybbIrX8F5Frf8UED4gx+wwYdt4vpIEB6e4Gq5Pxtv6Zkh26gUaK\nq4+jrE30uDt1ZGqlwVOkVUQ23Lm+1p7QKGVJOExso9sJRhVD2cIF5AobnV4VNN8t\n/Dk2GC2RIbOXBItyl3W0V7nMbLnTm6Tr8KgYO8c/SFMDlSsHEb0SMI2wCkr+rPhR\njSAvAQJPAgMBAAECggEAYooOXcIgQCgmKQjJ8Aqc6XzGS50IqRMzMawMR4+ixJcz\nS8IAt38OYxvQLEDFYxueWKpucBJysNd63bg2fu1TZp/aVwqqOWnN98WpbCtpTUHo\nWZIhhJ3LTonyr7mnuyTyfwKYBq9M6gSWoTA4uaSqDyIGVKfv1qUTjPN3Xlpbziwe\nDJKRFN+4ECi3ChSZ3oWBVYnFaUB3EasjhtOfxPcuepikfwVMRKkbajcDz/e+JPi0\nb0ZSvGN/V/2r/ZBqNQPYgf2msWKHRGEu5MOlwMwPNVZ5TnOsa2mSpkf5kvnldIBv\nwzpxSukFd7LGtA7Uw7xuPE/LNakkEx/O0bTukKGNpQKBgQD4poZxavGJoXtu/ST9\novH+dKA/Obs8fEK4BM+uRGh9ZHEwESRKi1QpUT0uwnE4sV/i5h8fVwGfEJjBLaRM\nAcmKMY1NOCu+wjwrkBKnq+XXnyobZeEwyqjT26nM9bf5jQhcVC+5DHlbks4Ta0Un\nuSQ4Ng0GMkJfUi7WRj7+8q/kZQKBgQDY4dutsU86MYmY8N5gFxroOunnwOQZsBg5\n0rZcPwcgkXzCSPMvTksCwbxhq7imb7jq3qkagBrdFEDP63g8StGJ0BIBue1QdBlF\nVczr8Z7MILmMYoPs9037oywDEYHL29sKzRqYC+co+cf33WA3/e6BLN9BLxLbW9Oy\npJc9vnfeowKBgQDzZFYfuTY7qaUgjIzj9dd5Y4HkwcckuuG4LYV5KR869tHQ4kaq\n7V1xoEMKfWzEuOOKQAXg8JL2uBE+r0Wu3OUB7+VH3B79+DVb0whftmUivntCHGTl\nFMtTria1KSVwEnxHnGSmd65nU/mCirND4fexSj9PfGz5z4FnX5WUi8xe/QKBgQCG\nQWIUpnMN6gZsZ4aw4vykD3wmG3DYOfr1KGv8tIN79LPPLQtlGEk03qr3py550SUe\nN1Fk9zIp8tSgIPpgEEyfy+6ppOez6vqNwixFTl/nqsZRkdZqxTg/8mVXTOoVQPba\nO9cfkha5dc4EsMRURNv0mMtm9XXt1m0448w/y302kwKBgQCAfrwOZ6fCCSXa2Xf7\n9dSZNbJ08bH8Csfudp1DdnWeLOzi5sU8xmnVdObMPf1U3XMZJwncAZ3gxo4Di33P\nn4f0rrqZKrcaJlfxGqSIn3OBDeyjj/+U2umCTxPzvMK7jib0HNWuy+qaai7+WwXJ\nwHL3VMGc2Sa3v+lQfpG1cbBhZQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "airflow-gcp-926@nodal-clock-292718.iam.gserviceaccount.com",
+  "client_id": "117852554743325141743",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/airflow-gcp-926%40nodal-clock-292718.iam.gserviceaccount.com"
+}
